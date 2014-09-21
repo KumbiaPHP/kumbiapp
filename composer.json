@@ -1,0 +1,5 @@
+{
+    "require": {
+        "kumbiaphp/kumbiacore": "dev-master"
+    }
+}
