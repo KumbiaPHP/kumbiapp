@@ -1,5 +1,17 @@
 {
+    "name": "kumbiaphp/base",
+    "description": "Base for Dependency injector core of KumbiaPHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KumbiaPHP Team",
+            "email": "alberroteran+dev@gmail.com"
+        }
+    ],
+    
     "require": {
-        "kumbiaphp/kumbiacore": "dev-master"
+        "php": ">=5.3.0",
+        "pimple/pimple": "~3.0",
+        "kumbiaphp/pimplecore": "dev-master"
     }
 }
